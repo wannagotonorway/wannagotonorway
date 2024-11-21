@@ -25,3 +25,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/ваш_ник)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ваш_профиль)
 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
+
+[Проект 1](https://github.com/yourusername/project1) | [Проект 2](https://github.com/yourusername/project2)
