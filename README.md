@@ -1,4 +1,4 @@
-# 👋 Привет, я [Ваше Имя]!
+# 👋 Привет, я Андрюха!
 
 ## 🌟 О себе
 - 💻 Я занимаюсь разработкой [например, веб-приложений / игр / аналитики].
@@ -17,18 +17,12 @@
 ---
 
 ## 📊 Статистика GitHub
-![Ваш никнейм](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![wannagotonorway](https://github-readme-stats.vercel.app/api?username=wannagotonorway&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Свяжитесь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/ваш_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ваш_профиль)
-
-
-
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=wannagotonorway)
 
