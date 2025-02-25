@@ -1,5 +1,5 @@
 # 👋 Привет, я Андрюха!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟+Aspiring+QA+Engineer;Focused+on+Software+Testing+and+Quality+Assurance)](https://git.io/typing-svg)
 ## 🌟 О себе
 - 💻 Я занимаюсь разработкой веб-приложений.
 - 🌱 Сейчас изучаю: TypeScript.
