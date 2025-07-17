@@ -1,29 +1,50 @@
-# 👋 Привет, я Андрюха!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+Aspiring+QA+Engineer;Focused+on+Software+Testing+and+Quality+Assurance)](https://git.io/typing-svg)
-## 🌟 О себе
-- 💻 Я занимаюсь разработкой веб-приложений.
-- 🌱 Сейчас изучаю: TypeScript.
-- 🎯 Мои цели: создание open-source проектов.
-- ⚡ Интересный факт обо мне: Я люблю совмещать код с музыкой!.
+# 👋 Hey, I’m Andrii!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=DevOps+%7C+SysAdmin+%7C+Automation;Focused+on+Startups+and+Scaling;Let%27s+Optimize+Together!)](https://git.io/typing-svg)
+
+## 🌟 About Me
+
+- 💻 I help startups and small teams automate infrastructure & reduce tech headaches.  
+- 🚀 Passionate about DevOps, system administration & cloud automation.  
+- 🌱 Currently learning: **TypeScript & scalable cloud solutions**.  
+- 🎯 Goal: Create open-source projects that help founders focus on growth.  
+- 🎧 Fun fact: I love coding while listening to music.
 
 ---
 
-## 🔧 Используемые технологии
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
+## 🔧 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux)  
+![MongoDB](https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb)  
+![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)  
+![Bash](https://img.shields.io/badge/Bash-333?style=flat-square&logo=gnubash)  
+![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker)  
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)  
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript)
 
 ---
 
-## 📊 Статистика GitHub
-![wannagotonorway](https://github-readme-stats.vercel.app/api?username=wannagotonorway&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![wannagotonorway's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannagotonorway&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌐 Свяжитесь со мной
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/ваш_ник)
+## 🌐 Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wannagotonorway)  
+[WannaCommunity](https://wannacommunity.city)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=wannagotonorway)
 
-[Проект 1](https://github.com/yourusername/project1) | [Проект 2](https://github.com/yourusername/project2)
+---
+
+## 📌 Pinned Projects
+
+- [WannaCommunity](https://github.com/wannagotonorway/wannacommunity)  
+- [WannaCrypto (coming soon...)](https://github.com/wannagotonorway)  
+- [WannaFans Automation](https://github.com/wannagotonorway)
+
+---
+
+**Let’s build something cool together!**
