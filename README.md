@@ -32,8 +32,7 @@
 
 ## 🌐 Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wannagotonorway)  
-[WannaCommunity](https://wannacommunity.city)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wannagotogermany)  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=wannagotonorway)
 
@@ -41,9 +40,9 @@
 
 ## 📌 Pinned Projects
 
-- [WannaCommunity](https://github.com/wannagotonorway/wannacommunity)  
-- [WannaCrypto (coming soon...)](https://github.com/wannagotonorway)  
-- [WannaFans Automation](https://github.com/wannagotonorway)
+- 
+- 
+- 
 
 ---
 
