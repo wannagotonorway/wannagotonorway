@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wannagotonorway">LinkedIn</a> •
-  <a href="https://github.com/wannagotonorway">GitHub</a> •
+  <a href="https://github.com/wannagotonorway">GitHub</a>
 </p>
 
 ---
@@ -28,16 +28,14 @@
 
 ## 📌 Highlighted Projects
 
-1. **infra-live** — “Live” repository with Terraform + Ansible for my VPS  
+1. <a href="https://github.com/wannagotonorway/infra-live">**infra-live**</a> — “Live” repository with Terraform + Ansible for my VPS  
    _IaC, configs, secrets via GitHub Secrets, checks in Actions._
 
-2. **wf-app** — Pet project (Node/Go/Python) with a full CI/CD pipeline  
+2. <a href="https://github.com/wannagotonorway/wf-app">**wf-app**</a> — Pet project (Node/Go/Python) with a full CI/CD pipeline  
    _Lint → Test → Build Docker → Push → Deploy to VPS (ssh/compose)._
 
-3. **monitoring-stack** — docker-compose stack for Prometheus + Grafana + Loki  
+3. <a href="https://github.com/wannagotonorway/monitoring-stack">**monitoring-stack**</a> — docker-compose stack for Prometheus + Grafana + Loki  
    _Targets: Nginx, host metrics; alerts and dashboards._
-
-> Links will be added once repos are published.
 
 ---
 
