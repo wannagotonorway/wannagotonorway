@@ -59,4 +59,4 @@ Check the `.github/workflows/` folder in the repositories.
 ---
 
 ### 📫 Contact
-- E-mail: <add support@wannacommunity.com email>
+- E-mail: support@wannacommunity.com
