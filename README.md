@@ -1,49 +1,65 @@
-# 👋 Hey, I’m Andrii!
+<!-- banner можно позже добавить -->
+<h1 align="center">Hey, I'm Andrii — Junior DevOps / SysAdmin</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=DevOps+%7C+SysAdmin+%7C+Automation;Focused+on+Startups+and+Scaling;Let%27s+Optimize+Together!)](https://git.io/typing-svg)
-
-## 🌟 About Me
-
-- 💻 I help startups and small teams automate infrastructure & reduce tech headaches.  
-- 🚀 Passionate about DevOps, system administration & cloud automation.  
-- 🌱 Currently learning: **TypeScript & scalable cloud solutions**.  
-- 🎯 Goal: Create open-source projects that help founders focus on growth.  
-- 🎧 Fun fact: I love coding while listening to music.
+<p align="center">
+  <a href="https://www.linkedin.com/in/wannagotonorway">LinkedIn</a> •
+  <a href="https://github.com/wannagotonorway">GitHub</a> •
+  <a href="https://t.me/wannagotonorway">Telegram</a>
+</p>
 
 ---
 
-## 🔧 Tech Stack
+### 🚀 About me
+- 2+ years hands-on с VPS (OVH, self-host), базовый AWS (EC2/S3).
+- Люблю автоматизацию и простые надёжные пайплайны CI/CD.
+- Сейчас прокачиваю: Docker / GitHub Actions / Terraform / Ansible / K8s basics.
+- Цель: «поднять и автоматизировать всё» — от билда до мониторинга.
 
-![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux)  
-![MongoDB](https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb)  
-![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)  
-![Bash](https://img.shields.io/badge/Bash-333?style=flat-square&logo=gnubash)  
-![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker)  
-![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)  
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript)
+### 🧰 Tech stack
+`Linux` • `Bash` • `Git` • `Docker` • `docker-compose` • `Nginx`  
+`GitHub Actions` • `Ansible (base)` • `Terraform (base)` • `Prometheus + Grafana (base)`  
+`MongoDB / MySQL (ops)` • `AWS EC2/S3 (base)`
 
----
-
-## 📊 GitHub Stats
-
-![wannagotonorway's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannagotonorway&show_icons=true&theme=tokyonight)
-
----
-
-## 🌐 Contact Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wannagotogermany)  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=wannagotonorway)
+### 🛠 What I build
+- **CI/CD:** сборка, тесты, линт, docker-image, push в registry, деплой на VPS по SSH.
+- **IaC:** инфраструктура как код на Terraform (базово), плейбуки Ansible для конфигурации.
+- **Обслуживание:** бэкапы, логирование, алёрты, мониторинг.
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Highlighted Projects
 
-- 
-- 
-- 
+1. **infra-live** — «живой» репозиторий с Terraform + Ansible для моего VPS  
+   _IaC, конфиги, секреты через GitHub Secrets, чекеры в Actions._
+
+2. **wf-app** — pet-приложение (Node/Go/Python) с полноценным CI/CD  
+   _Lint → Test → Build Docker → Push → Deploy to VPS (ssh/compose)._
+
+3. **monitoring-stack** — docker-compose для Prometheus + Grafana + Loki  
+   _Targets: Nginx, host metrics; алёрты, дешборды._
+
+> Ссылки добавлю чуть ниже как только запушу репы.
 
 ---
 
-**Let’s build something cool together!**
+## ✅ CI/CD Demos (GitHub Actions)
+- **`ci.yml`** — базовый линт/тест
+- **`docker-build.yml`** — сборка и push образа
+- **`deploy.yml`** — деплой на VPS через SSH
+
+Смотри папку `.github/workflows/` в репозиториях.
+
+---
+
+## 📊 Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wannagotonorway&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannagotonorway&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 📫 Contact
+- Telegram: https://t.me/wannagotonorway  
+- E-mail: <поставь почту для рекрута>
+
