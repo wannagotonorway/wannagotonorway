@@ -1,53 +1,52 @@
-<!-- banner можно позже добавить -->
+<!-- Banner can be added later -->
 <h1 align="center">Hey, I'm Andrii — Junior DevOps / SysAdmin</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wannagotonorway">LinkedIn</a> •
   <a href="https://github.com/wannagotonorway">GitHub</a> •
-  <a href="https://t.me/wannagotonorway">Telegram</a>
 </p>
 
 ---
 
-### 🚀 About me
-- 2+ years hands-on с VPS (OVH, self-host), базовый AWS (EC2/S3).
-- Люблю автоматизацию и простые надёжные пайплайны CI/CD.
-- Сейчас прокачиваю: Docker / GitHub Actions / Terraform / Ansible / K8s basics.
-- Цель: «поднять и автоматизировать всё» — от билда до мониторинга.
+### 🚀 About Me
+- 2+ years of hands-on experience managing VPS (OVH, self-host) and basic AWS (EC2/S3).
+- Passionate about automation and building simple, reliable CI/CD pipelines.
+- Currently improving skills in: Docker / GitHub Actions / Terraform / Ansible / K8s basics.
+- Goal: “Automate everything” — from build to deployment and monitoring.
 
-### 🧰 Tech stack
+### 🧰 Tech Stack
 `Linux` • `Bash` • `Git` • `Docker` • `docker-compose` • `Nginx`  
-`GitHub Actions` • `Ansible (base)` • `Terraform (base)` • `Prometheus + Grafana (base)`  
-`MongoDB / MySQL (ops)` • `AWS EC2/S3 (base)`
+`GitHub Actions` • `Ansible (basic)` • `Terraform (basic)` • `Prometheus + Grafana (basic)`  
+`MongoDB / MySQL (ops)` • `AWS EC2/S3 (basic)`
 
-### 🛠 What I build
-- **CI/CD:** сборка, тесты, линт, docker-image, push в registry, деплой на VPS по SSH.
-- **IaC:** инфраструктура как код на Terraform (базово), плейбуки Ansible для конфигурации.
-- **Обслуживание:** бэкапы, логирование, алёрты, мониторинг.
+### 🛠 What I Build
+- **CI/CD:** build, test, lint, docker image creation, push to registry, deploy to VPS via SSH.
+- **IaC:** infrastructure as code with Terraform (basic), Ansible playbooks for configuration.
+- **Ops:** backups, logging, alerts, monitoring.
 
 ---
 
 ## 📌 Highlighted Projects
 
-1. **infra-live** — «живой» репозиторий с Terraform + Ansible для моего VPS  
-   _IaC, конфиги, секреты через GitHub Secrets, чекеры в Actions._
+1. **infra-live** — “Live” repository with Terraform + Ansible for my VPS  
+   _IaC, configs, secrets via GitHub Secrets, checks in Actions._
 
-2. **wf-app** — pet-приложение (Node/Go/Python) с полноценным CI/CD  
+2. **wf-app** — Pet project (Node/Go/Python) with a full CI/CD pipeline  
    _Lint → Test → Build Docker → Push → Deploy to VPS (ssh/compose)._
 
-3. **monitoring-stack** — docker-compose для Prometheus + Grafana + Loki  
-   _Targets: Nginx, host metrics; алёрты, дешборды._
+3. **monitoring-stack** — docker-compose stack for Prometheus + Grafana + Loki  
+   _Targets: Nginx, host metrics; alerts and dashboards._
 
-> Ссылки добавлю чуть ниже как только запушу репы.
+> Links will be added once repos are published.
 
 ---
 
 ## ✅ CI/CD Demos (GitHub Actions)
-- **`ci.yml`** — базовый линт/тест
-- **`docker-build.yml`** — сборка и push образа
-- **`deploy.yml`** — деплой на VPS через SSH
+- **`ci.yml`** — basic lint/test workflow
+- **`docker-build.yml`** — build & push Docker image
+- **`deploy.yml`** — deploy to VPS via SSH
 
-Смотри папку `.github/workflows/` в репозиториях.
+Check the `.github/workflows/` folder in the repositories.
 
 ---
 
@@ -60,6 +59,4 @@
 ---
 
 ### 📫 Contact
-- Telegram: https://t.me/wannagotonorway  
-- E-mail: <поставь почту для рекрута>
-
+- E-mail: <add support@wannacommunity.com email>
