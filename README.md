@@ -14,7 +14,7 @@
 
 ## About
 
-Ukrainian engineer based in Germany. I run production Kubernetes clusters and build open source infrastructure. Currently contributing to [Open Food Facts](https://world.openfoodfacts.org) — set up the first public EU mirror for their database and API.
+Ukrainian engineer based in Germany. I run production Kubernetes clusters and build open source infrastructure. Currently contributing to [Open Food Facts](https://world.openfoodfacts.org) - set up the first public EU mirror for their database and API.
 
 ---
 
@@ -25,9 +25,9 @@ Ukrainian engineer based in Germany. I run production Kubernetes clusters and bu
 
 | | |
 |---|---|
-| **Data dumps** | [data.off.wanna.community](https://data.off.wanna.community) — MongoDB 14GB · JSONL 11GB · CSV · daily deltas |
-| **API** | [api.off.wanna.community](https://api.off.wanna.community) — v2 & v3 compatible · rate limited · ODbL |
-| **Status** | [status.off.wanna.community](https://status.off.wanna.community) — monitoring OFF + mirror uptime |
+| **Data dumps** | [data.off.wanna.community](https://data.off.wanna.community) - MongoDB 14GB · JSONL 11GB · CSV · daily deltas |
+| **API** | [api.off.wanna.community](https://api.off.wanna.community) - v2 & v3 compatible · rate limited · ODbL |
+| **Status** | [status.off.wanna.community](https://status.off.wanna.community) - monitoring OFF + mirror uptime |
 | **Stack** | Kubernetes · ArgoCD · MongoDB · Node.js · GitOps |
 
 ---
@@ -69,13 +69,8 @@ Ukrainian engineer based in Germany. I run production Kubernetes clusters and bu
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wannagotonorway&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wannagotonorway&layout=compact&theme=github_dark&hide_border=true"/>
+![Streak](https://streak-stats.demolab.com?user=wannagotonorway&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=wannagotonorway&theme=github-dark&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=wannagotonorway&theme=github-compact&hide_border=true)
 
 </div>
