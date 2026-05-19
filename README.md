@@ -69,7 +69,7 @@ Ukrainian engineer based in Germany. I run production Kubernetes clusters and bu
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=wannagotonorway&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Streak](https://streak-stats.demolab.com?user=wannagotonorway&theme=github-dark&hide_border=true&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=wannagotonorway&theme=github-compact&hide_border=true)
 
